@@ -4,8 +4,6 @@ const bodyParser = require('body-parser');
 const ObjectId = require('mongodb').ObjectID;
 
 
-const password = 'TYHPtQ32NWDDz5Yt';
-
 
 const MongoClient = require('mongodb').MongoClient;
 const uri = "mongodb+srv://freshUser:TYHPtQ32NWDDz5Yt@cluster0.nt3jq.mongodb.net/freshdb?retryWrites=true&w=majority";
